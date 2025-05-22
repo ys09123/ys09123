@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Yash 👋
+
+I'm a passionate learner diving deep into **Data Science**, **DSA**, and **Web Development**.  
+Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualization 📈
+
+- 💻 I’m currently solving problems on [LeetCode](https://leetcode.com/)
+- 🌱 I’m working on Data Analysis and end-to-end ML projects
+- 🔭 I’m looking to collaborate on open-source DS projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | shawb278@gmail.com
+
+## 🛠️ Tech Stack
+`Python` `Pandas` `Matplotlib` `Seaborn` `NumPy` `SQL` `HTML` `CSS` `JavaScript`
+
