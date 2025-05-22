@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **ys09123/ys09123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Yash 👋
 
 I'm a passionate learner diving deep into **Data Science**, **DSA**, and **Web Development**.  
 Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualization 📈
