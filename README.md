@@ -21,8 +21,8 @@ Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualizat
 - 💻 I’m currently solving problems on [LeetCode](https://leetcode.com/)
 - 🌱 I’m working on Data Analysis and end-to-end ML projects
 - 🔭 I’m looking to collaborate on open-source DS projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | shawb278@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yash-kumar-shaw-22601a22b/) | ykshaw20@gmail.com
 
 ## 🛠️ Tech Stack
-`Python` `Pandas` `Matplotlib` `Seaborn` `NumPy` `SQL` `HTML` `CSS` `JavaScript`
+`Python` `C++` `Pandas` `Matplotlib` `Seaborn` `NumPy` `SQL` `HTML` `CSS` `JavaScript`
 
