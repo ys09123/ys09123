@@ -28,11 +28,11 @@ Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualizat
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ys09123&show_icons=true&theme=onestar)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ys09123&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ys09123&layout=compact&theme=onestar)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ys09123&layout=compact&theme=monokai)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ys09123&theme=onestar)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ys09123&theme=radical)
 
 ### 🏆 GitHub Trophies
 
