@@ -26,3 +26,8 @@ Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualizat
 ## 🛠️ Tech Stack
 `Python` `C++` `Pandas` `Matplotlib` `Seaborn` `NumPy` `SQL` `HTML` `CSS` `JavaScript`
 
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ys09123&show_icons=true&theme=radical)
+
+
