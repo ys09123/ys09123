@@ -1,4 +1,4 @@
-# Hi there 👋
+![image](https://github.com/user-attachments/assets/7a239740-dbbb-4172-bd6b-12177c083e86)# Hi there 👋
 
 <!--
 **ys09123/ys09123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualizat
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ys09123&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=merko)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ys09123&theme=merko)
 
 ### 🏆 GitHub Trophies
 
