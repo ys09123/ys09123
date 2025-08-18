@@ -36,7 +36,7 @@ Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualizat
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ys09123&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ys09123)](https://github.com/ys09123/github-profile-trophy)
 
 
 
