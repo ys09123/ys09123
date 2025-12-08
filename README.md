@@ -24,15 +24,7 @@ Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualizat
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yash-kumar-shaw-22601a22b/) | ykshaw20@gmail.com
 
 ## 🛠️ Tech Stack
-`Python` `C++` `Pandas` `Matplotlib` `Seaborn` `NumPy` `SQL` `HTML` `CSS` `JavaScript`
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ys09123&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ys09123&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ys09123&theme=radical)
+`Python` `C++` `Pandas` `Matplotlib` `Seaborn` `NumPy` `SQL` `JavaScript` `React` `Node`
 
 
 
