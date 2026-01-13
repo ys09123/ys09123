@@ -26,6 +26,15 @@ Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualizat
 ## 🛠️ Tech Stack
 `Python` `C++` `Pandas` `Matplotlib` `Seaborn` `NumPy` `SQL` `JavaScript` `React` `Node`
 
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+
 
 
 
