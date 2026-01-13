@@ -35,6 +35,7 @@ Currently exploring: Graphs, Recursion, Dynamic Programming, and Data Visualizat
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></a>
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Artificial_intelligence_icon.svg" width="40"/>
 </p>
 
 
